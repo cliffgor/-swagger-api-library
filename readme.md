@@ -17,8 +17,17 @@
 - After installing dependencies you are free to go
 - Launch the app using `node index.js`
 - To view it on your browser got to [http://localhost400/](http://localhost:4000/api-docs/)
-- Here's an image of a drag racer in action:
+- Here's an image of the API documentation in action:
+   ![API Web View](Screenshot.png)
+Move along.😎
 
-![API Web View](Screenshot.png)
+## Author
+  [Cliff Gor](https://cliffgor.com/)
 
-Move along.
+  ## Challenges
+
+  - I had a challenge with lowdb where it was configuring the whole code as es6
+  - I used an older version of dependancies due to code breaking.
+
+## Achievements
+- Was able to make the API work by using older versions of the packages
